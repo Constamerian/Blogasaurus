@@ -1,0 +1,38 @@
+body {
+  font-family: fantasy;
+  background-image: url('background.jpg')
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: purple;
+}
+
+#music {
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+  margin-right: 20px;
+  padding: 20px;
+  border: 3px dashed blue;
+}
+
+#photography {
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+  margin-right: 20px;
+  padding: 20px;
+  border: 3px dashed black;
+}
+
+#food {
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+  padding: 20px;
+  border: 3px dashed blue;
+}
