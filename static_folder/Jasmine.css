@@ -1,7 +1,8 @@
 body {
   font-family: fantasy;
-  background-image: url('background2.jpg');
-  background-size: cover;
+  background-image: url('b-mo.gif');
+  /*background-size: cover;*/
+  background-size: 33% 50%;
 }
 
 h1 {
@@ -13,7 +14,8 @@ h2 {
 }
 
 li {
-  color: #5A8FF5;
+  /*color: #5A8FF5;*/
+  color: blue;
 }
 
 #music {

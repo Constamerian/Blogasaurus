@@ -1,5 +1,5 @@
 function setup () {
-  $("#music").animate(
+  /*$("#music").animate(
     {"margin-left": "10px"},
     5000
   );
@@ -10,7 +10,7 @@ function setup () {
   $("food").animate(
     {"margin-left": "10px"},
     3000
-  );
+  );*/
   $("#shows").fadeIn(8000, "swing");
 }
 
